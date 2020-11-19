@@ -6,7 +6,7 @@ Below are the instructions to get started with the Juice Shop CTF Setup.
 
 **Before diving in, please note the following:**
 1. email doesn't work.
-2. save passwords and acess codes
+2. save passwords and access codes
 3. if you neglect to do the above just create a new account
 
 **Juice shop Server:**
