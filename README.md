@@ -46,10 +46,9 @@ Go to http://juice.abl.ninja
 4. Find the card for the challenge you solved
 5. Input the reg code.  CTF Server will give you credit for the solved challenge
 6. Don’t share reg keys with your competitors!  Haha
+7. Have Fun!
  
 A team can be multiple people or just one person totally optional.
-
-Contest Ends at midnight.
 
 ## Bonus
 if you want to run your own juice shop instance instead of using a hosted one, simply paste the command below into your terminal (note: you must have docker installed)
