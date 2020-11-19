@@ -21,11 +21,8 @@ http://ctf.abl.ninja:4000
 **Juice shop provisioning/Team creation**
 
 Go to http://juice.abl.ninja
-1. Create team
-    Multi-juicer will spin up an instance of juice shop for you
-2. Save the code!
-    This allows other people to join your team
-    It also allows you to rejoin your own team if your cookie is deleted*
+1. Create team:  Multi-juicer will spin up an instance of juice shop for you
+2. Save the code:  This allows other people to join your team.  It also allows you to rejoin your own team if your cookie is deleted*
 
 *Juice balancer balancer gives your browser a cookie that routes you to your juice shop instance automagically on subsequent connections*
 
