@@ -27,7 +27,7 @@ Go to http://juice.abl.ninja
     This allows other people to join your team
     It also allows you to rejoin your own team if your cookie is deleted*
 
-*Juice balancer balancer gives your browser a cookie that routes you to your juice shop instance automagically on subsequent connetions*
+*Juice balancer balancer gives your browser a cookie that routes you to your juice shop instance automagically on subsequent connections*
 
 ** CTF server provisioning **
 1. Go to http://ctf.abl.ninja:4000
